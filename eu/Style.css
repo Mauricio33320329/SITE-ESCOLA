@@ -1,12 +1,15 @@
 body {
-    background-color: rgb(236, 87, 224);
+    background-image: url(MAPA-DE-SALA-EDITAVEL.jpg);
+    background-size: cover;
+    background-position: center;      
     color:rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 50px;
     font-style: bold;
+    
 }
 
 .logoescola {
-    width: 30%;
+    width: 50%;
 }
 
 .meio{
@@ -31,6 +34,6 @@ body {
 }
 .iten img{
 
-    width: 200px;
+    width: 500px;
 
 }
