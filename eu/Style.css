@@ -7,12 +7,14 @@ body {
 }
 
 .logoescola {
-    width: 50%;
+    width: 20%;
 }
 
 .meio{
     justify-content: space-around;
     Display:flex;
+    align-items: center; 
+    justify-content: center;                                                                                                                                                                                                                                                                                                   
 }
 
 .topico{
@@ -27,15 +29,18 @@ body {
 
 }
 .iten{
- margin-top: 30px;
- margin-bottom: 30px;
+
+ margin-top: 20px;
+ margin-bottom: 20px;
  width: 300px;
+
 
 }
 .iten img{
 
     width: 200px;
-
+    height: 200px;
+    display: inline-block;
 }
 
 .fundo {
