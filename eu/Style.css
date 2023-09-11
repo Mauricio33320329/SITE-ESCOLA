@@ -21,18 +21,21 @@ body {
     margin-right: 10cm;
     
 }
-.estudante{
+.estudantes{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+ 
   
 
 }
 .iten{
 
  margin-top: 20px;
- margin-bottom: 20px;
+ margin-bottom: 50px;
  width: 300px;
+ 
+ 
 
 
 }
@@ -41,6 +44,7 @@ body {
     width: 200px;
     height: 200px;
     display: inline-block;
+    border-radius: 90%;
 }
 
 .fundo {
